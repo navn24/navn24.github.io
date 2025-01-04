@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'https://navn24.github.io'
-# baseurl: '/jekyll-uno'
+url: 'https://navn24.github.io/jekyll-uno'
+baseurl: '/jekyll-uno'
 # remote_theme: joshgerdes/jekyll-uno
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
