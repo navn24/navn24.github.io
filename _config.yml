@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
+title: Naveen Balu
 description: 'Business Card Page'
 url: 'https://www.zuehlke.cloud'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/naveen.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '36060caf6e.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: thomas@zuehlke.cloud
+  name: 'Naveen Balu'
+  email: navnbalu@gmail.com
   mastodon: tzuehlke@mstdn.social
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
+  github_username:  navn24
+  linkedin_username:  naveen-balu
   meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
