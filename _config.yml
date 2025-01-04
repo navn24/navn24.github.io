@@ -14,7 +14,8 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Naveen Balu
 #subtitle:
-# subtitle: Frontend Developer
+subtitle:  Hi! I’m a senior studying Computer Science at the University of Wisconsin-Madison. I am currently a research assistant in the <a href = "https://yinlab.discovery.wisc.edu/"><em>YinLab</em></a>, where I am working to develop an LLM to accurately extract virus data from text and images in relevant virology literature. In the past, I worked at <a href="https://drw.com"><em>DRW</em></a> on an infrastructure team and <a href="https://capitalone.com"><em>Capital One</em></a> on a fullstack development team. In my free time, I enjoy reading, running, and competitive dance. Click <a href="https://navn24.github.io/naveen_resume.pdf">here</a> to download my resume. If you have any questions or would like to connect, please feel free to reach out.
+
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Naveen Balu
@@ -178,13 +179,12 @@ links:
       icon: fas fa-key
 
   # Throughout my internships at DRW Holdings, Capital One, and Schneider, I’ve honed my skills in backend development, full-stack applications, and infrastructure optimization, contributing to projects that enhance efficiency and scalability. My academic and personal projects, like developing machine learning models for virology research and creating a Rust-based secrets monitoring tool, reflect my enthusiasm for solving complex problems using innovative technologies. Beyond coding, I’ve embraced leadership roles as the outreach chair for the Indian Students Association and as an industry liaison for Kappa Eta Kappa. As an Eagle Scout, I value teamwork, community, and personal growth, qualities that guide me in both my professional and personal endeavors. Click <a href="https://navn24.github.io/naveen_resume.pdf">here</a> to download my resume!
+  # Hi! I’m a senior studying Computer Science at the University of Wisconsin-Madison. I am currently a research assistant in the <a href = "https://yinlab.discovery.wisc.edu/"><em>YinLab</em></a>, where I am working to develop an LLM to accurately extract virus data from text and images in relevant virology literature. In the past, I worked at <a href="https://drw.com"><em>DRW</em></a> on an infrastructure team and <a href="https://capitalone.com"><em>Capital One</em></a> on a fullstack development team. In my free time, I enjoy reading, running, and competitive dance. Click <a href="https://navn24.github.io/naveen_resume.pdf">here</a> to download my resume. If you have any questions or would like to connect, please feel free to reach out.
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
-extra_html: >
-  Hi! I’m a senior studying Computer Science at the University of Wisconsin-Madison. I am currently a research assistant in the <a href = "https://yinlab.discovery.wisc.edu/"><em>YinLab</em></a>, where I am working to develop an LLM to accurately extract virus data from text and images in relevant virology literature. In the past, I worked at <a href="https://drw.com"><em>DRW</em></a> on an infrastructure team and <a href="https://capitalone.com"><em>Capital One</em></a> on a fullstack development team. In my free time, I enjoy reading, running, and competitive dance. Click <a href="https://navn24.github.io/naveen_resume.pdf">here</a> to download my resume. If you have any questions or would like to connect, please feel free to reach out.
-  
+extra_html: >  
 
 
 #EOF

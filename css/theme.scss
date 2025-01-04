@@ -44,7 +44,7 @@ div.fuse-core-content {
 /* --------- Avatar ---------------------------------------------------------------------------- */
 
 #avatar {
-    height: 180px;
+    height: 300px;
     border-radius: 100%;
     border: 5px solid white;
 }
@@ -61,7 +61,19 @@ h1 {
     font-size: 3em;
 }
 h3 {
-    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.7);
+    a {
+        color: rgba(0, 0, 0, 0.9);
+        border-radius: 3px;
+        padding: 0 2px;
+
+        &:hover {
+            color: white;
+            text-decoration: none;
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+    }
+    // font-size: 1.2em;
 }
 
 
