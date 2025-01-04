@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Naveen Balu
 #subtitle:
-subtitle:  Hi! I’m a senior studying Computer Science at the University of Wisconsin-Madison. I am currently a research assistant in the <a href = "https://yinlab.discovery.wisc.edu/"><em>YinLab</em></a>, where I am working to develop an LLM to accurately extract virus data from text and images in relevant virology literature. In the past, I worked at <a href="https://drw.com"><em>DRW</em></a> on an infrastructure team and <a href="https://capitalone.com"><em>Capital One</em></a> on a fullstack development team. In my free time, I enjoy reading, running, and competitive dance. Click <a href="https://navn24.github.io/naveen_resume.pdf">here</a> to download my resume. If you have any questions or would like to connect, please feel free to reach out.
+subtitle:  Hi! I’m a senior studying Computer Science at the University of Wisconsin-Madison. I am currently a research assistant in the <a href = "https://yinlab.discovery.wisc.edu/"><em>YinLab</em></a>, where I am working to develop an LLM to accurately extract virus data from text and images in relevant virology literature. In the past, I worked at <a href="https://drw.com"><em>DRW</em></a> on an infrastructure team, <a href="https://capitalone.com"><em>Capital One</em></a> on a fullstack development team, and <a href="https://schneider.com/"><em>Schneider</em></a> on a backend development team. In my free time, I enjoy reading, running, and competitive dance. Click <a href="https://navn24.github.io/naveen_resume.pdf">here</a> to download my resume. If you have any questions or would like to connect, please feel free to reach out.
 
 
 # Title attribute of HTML Page, uses 'name' from above if empty
