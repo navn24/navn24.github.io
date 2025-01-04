@@ -1,7 +1,7 @@
 # Site settings
 title: Naveen Balu
-description: 'Business Card Page'
-url: 'https://www.zuehlke.cloud'
+description: 'Portfolio Page'
+url: 'https://navn24.github.io/'
 baseurl: ''
 profilepic: '/images/naveen.jpg'
 bkimage: '/images/bk1.jpg'
@@ -11,12 +11,12 @@ font_awesome: '36060caf6e.js'
 author:
   name: 'Naveen Balu'
   email: navnbalu@gmail.com
-  mastodon: tzuehlke@mstdn.social
-  twitter_username: thomzuehlke
+  # mastodon: ''
+  # twitter_username: ''
 #  facebook_username: joshgerdes
   github_username:  navn24
   linkedin_username:  naveen-balu
-  meetup_name: Azure-Meetup-Rostock-MV
+  # meetup_name: ''
 
 # Build settings
 destination: _site
